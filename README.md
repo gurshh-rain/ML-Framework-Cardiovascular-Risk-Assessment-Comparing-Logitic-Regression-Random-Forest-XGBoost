@@ -1,0 +1,2 @@
+# ML-Framework-Cardiovascular-Risk-Assessment-Comparing-Logitic-Regression-Random-Forest-XGBoost
+An end-to-end machine learning pipeline for accurate cardiovascular risk assessment. Features rigorous categorical data preprocessing, missing-value evaluation, cross-feature correlation indexing, and structured data serialization for predictive medical diagnostics. Compares logistic regression, random forest, and xgboost. 
